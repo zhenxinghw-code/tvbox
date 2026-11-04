@@ -1,8 +1,8 @@
 {
-  "time": "2026-11-03 22:09:14",
+  "time": "2026-11-04 22:18:04",
   "output_dir": "/home/runner/work/tvbox/tvbox/ry",
   "total": 8,
-  "success": 6,
+  "success": 5,
   "items": [
     {
       "name": "潇洒下载",
@@ -26,8 +26,9 @@
     {
       "name": "奇奇副本",
       "url": "https://0.12yue.de5.net/tvbox/x/lib/666.json",
-      "file": "./ry/奇奇副本.json",
-      "ok": true
+      "file": null,
+      "ok": false,
+      "error": "all failed: HTML response (possible WAF block)"
     },
     {
       "name": "柒豪下载",
