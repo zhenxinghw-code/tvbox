@@ -1,8 +1,8 @@
-name: 每日聚合TVBox直播源
+name: 每周聚合TVBox直播源
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # UTC 18:00 = 北京时间次日 02:00
+    - cron: "0 18 * * 1"   # 每周一 UTC 18:00 = 北京时间周二 02:00（原为每日，已改为 7 天一更）
   workflow_dispatch:
     inputs:
       force:
@@ -52,5 +52,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash
           git add tvbox/ livelist.txt
-          git commit -m "chore(live): 每日更新直播源 $(TZ='CST-8' date +%Y-%m-%d)" || echo "no changes"
+          git commit -m "chore(live): 每周更新直播源 $(TZ='CST-8' date +%Y-%m-%d)" || echo "no changes"
           git push
