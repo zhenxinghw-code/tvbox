@@ -1,13 +1,15 @@
+Yoursmile.txt|20261112|112.9K|https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt|南风|okhttp/3.15|
+综合直播.php|20261112|41.9K|http://193.123.86.190:14888/TV/iptv.php|嗷呜|bingcha/1.1 (mianfeifenxiang)|
+虎牙一起看.m3u|20261112|208.8K|https://sub.ottiptv.cc/huyayqk.m3u|嗷呜|okHttp/Mod-1.5.0.0|
+斗鱼一起看.m3u|20261112|168.7K|https://sub.ottiptv.cc/douyuyqk.m3u|嗷呜|okHttp/Mod-1.5.0.0|
+B站直播.m3u|20261112|84.7K|https://sub.ottiptv.cc/bililive.m3u|嗷呜|okHttp/Mod-1.5.0.0|
+YY轮播.m3u|20261112|112.0K|https://sub.ottiptv.cc/yylunbo.m3u|嗷呜|okHttp/Mod-1.5.0.0|
+Kimentanm1线.m3u|20261112|21.5K|https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬|null|
+Guovin.m3u|20261112|387.1K|https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u|菠菜pro|null|
 驸马影视电信专线.m3u|20260915|17.0K|http://fmys.top/lib/live.m3u|驸马|null|
 驸马影视移动专线.m3u|20260915|21.0K|http://fmys.top/lib/yidong.m3u|驸马|null|
 Kimentanm.m3u|20260915|21.4K|https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|饭太硬5线|null|
-综合直播.php|20260915|41.9K|http://193.123.86.190:14888/TV/iptv.php|饭太硬5线|bingcha/1.1 (mianfeifenxiang)|
 范明明需开启V6网络.m3u|20260915|12.5K|https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u|饭太硬5线|null|
-虎牙一起看.m3u|20260915|194.7K|https://sub.ottiptv.cc/huyayqk.m3u|饭太硬5线|okHttp/Mod-1.5.0.0|
-斗鱼一起看.m3u|20260915|177.2K|http://150.158.52.248/tgyg/lib/douyuyqk.m3u|幸福年年|okHttp/Mod-1.5.0.0|
-YY轮播.m3u|20260915|111.2K|https://sub.ottiptv.cc/yylunbo.m3u|饭太硬5线|okHttp/Mod-1.5.0.0|
-Guovin.m3u|20260915|387.1K|https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u|更新专用接口|null|
-B站直播.m3u|20260915|56.5K|http://150.158.52.248/tgyg/lib/bililive.m3u|幸福年年|okHttp/Mod-1.5.0.0|
 cluntop.m3u|20260915|1.2M|https://clun.top/lib/iptv.m3u|clun|null|
 cluntoptest.m3u|20260915|326.7K|https://clun.top/lib/iptv_test.m3u|clun|null|
 歌手直播.m3u|20260915|72.4K|https://mgtv.ottiptv.cc/mglist.m3u|clun|okhttp/3.15|
@@ -24,14 +26,12 @@ EPG直播.txt|20260915|77.2K|http://gh-proxy.org/https://raw.githubusercontent.c
 游魂.txt|20260915|609B|https://www.iyouhun.com/tv/zb|东篱|null|
 YanG1线.m3u|20260915|26.7K|https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|东篱|null|
 suxuang1线.m3u|20260915|262.3K|https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u|东篱|null|
-线路.nzk|20260915|119.5K|http://rihou.cc:567/gggg.nzk|星微Vip|okhttp/3|
 线路.txt|20260915|469B|https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt|星微Vip|okHttp/Mod-1.1.0|
 咪咕.txt|20260915|469B|https://develop202.github.io/migu_video/interface.txt|小马|null|
 手动不知何时更新.txt|20260915|663.8K|https://szyyds.cn/tv/live/x.txt|小马|null|
 有效期27年7月.php|20260915|6.8K|http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512|小马|null|
 自动更新.txt|20260915|32.8K|https://z.szyyds.cn/iptv|小马|null|
 音乐所.txt|20260915|22.2M|https://szyyds.cn/tv/live/yy.txt|小马|null|
-Yoursmile.txt|20260915|115.3K|https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt|南风|okhttp/3.15|
 live.txt|20260915|258.5K|http://xhztv.top/xhz/live.txt|聚玩|okhttp/3.15|
 幸福年年zb.txt|20260915|621.6K|http://150.158.52.248/tgyg/lib/ylzb.txt|幸福年年|null|
 轮播直播.txt|20260915|1.1M|http://150.158.52.248/tgyg/lib/dsj.txt|幸福年年|null|
