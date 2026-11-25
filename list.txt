@@ -1,7 +1,7 @@
-幸福年年.json|20261122|43.1K|http://150.158.52.248/tgyg/bbm.json
-饭太硬.json|20261122|16.3K|http://www.饭太硬.net/tv
-嗷呜.json|20261122|22.3K|http://www.英格里希嗷呜.top/tv
-潇洒.json|20261122|706B|https://9877.kstore.space/single.json
+幸福年年.json|20261125|43.1K|http://150.158.52.248/tgyg/bbm.json
+饭太硬.json|20261125|15.6K|http://www.饭太硬.net/tv
+嗷呜.json|20261125|20.2K|http://www.英格里希嗷呜.top/tv
+潇洒.json|20261125|706B|https://9877.kstore.space/single.json
 菠菜pro.json|20261114|68.5K|https://0.12yue.de5.net/5/x4pro.json
 更新专用接口.json|20261104|4.2K|https://0.12yue.de5.net/tvbox/更新专用接口.json
 南风.json|20260916|73.3K|https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
